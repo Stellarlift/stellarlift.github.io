@@ -10,16 +10,16 @@ We may also use the information you provided us to contact your from time to tim
  
 In addition, the Application may collect certain information automatically, including, but not limited to, the type of mobile device you use, your mobile devices unique device ID, the IP address of your mobile device, your mobile operating system, the type of mobile Internet browsers you use, and information about the way you use the Application. 
  
-Does the Application collect precise real time location information of the device?
+## Does the Application collect precise real time location information of the device?
 This Application does not collect precise information about the location of your mobile device. 
  
-Do third parties see and/or have access to information obtained by the Application?
+## Do third parties see and/or have access to information obtained by the Application?
 Only aggregated, anonymized data is periodically transmitted to external services to help us improve the Application and our service. We will share your information with third parties only in the ways that are described in this privacy statement.
 We may disclose User Provided and Automatically Collected Information:
-    • as required by law, such as to comply with a subpoena, or similar legal process;
-    • when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
-    • with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
-    • if StellarLift is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+    * as required by law, such as to comply with a subpoena, or similar legal process;
+    * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+    * with our trusted services providers who work on our behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
+    * if StellarLift is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
  
 ## What are my opt-out rights?
 You can stop all collection of information by the Application easily by uninstalling the Application. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network. You can also request to opt-out via email, at stellarlift@gmail.com.
